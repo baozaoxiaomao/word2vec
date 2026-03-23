@@ -593,7 +593,8 @@ for word1, word2 in word_pairs:
 ```
 
 1. **扩展实验结果**
-   ![5090190cd467bc749648b4413f088ebf](D:\software\xwechat_files\wxid_l5uoj7egkos122_25fd\temp\RWTemp\2026-03\da4ac80023162a9f5a8cf2be7bd2bd01\5090190cd467bc749648b4413f088ebf.png)
+   <img width="827" height="1075" alt="image" src="https://github.com/user-attachments/assets/7ce7d8db-0615-46e5-9f62-78fd8bba54cf" />
+
 
    ![1598891912e75e0530e80245eb6c5cc9](D:\software\xwechat_files\wxid_l5uoj7egkos122_25fd\temp\RWTemp\2026-03\da4ac80023162a9f5a8cf2be7bd2bd01\1598891912e75e0530e80245eb6c5cc9.png)
 
